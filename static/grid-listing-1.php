@@ -153,29 +153,23 @@
 						</div>
 						<!-- /filter_type -->
 						<div class="filter_type">
-							<h4><a href="#filter_4" data-toggle="collapse" class="closed">Preço</a></h4>
+							<h4><a href="#filter_4" data-toggle="collapse" class="closed">Tipo</a></h4>
 							<div class="collapse" id="filter_4">
 								<ul>
 										<li>
-											<label class="container_check">R$0 — R$50<small>11</small>
+											<label class="container_check">Audiodescritor
 											  <input type="checkbox">
 											  <span class="checkmark"></span>
 											</label>
 										</li>
 										<li>
-											<label class="container_check">R$50 — R$100<small>08</small>
+											<label class="container_check">Intérprete
 											  <input type="checkbox">
 											  <span class="checkmark"></span>
 											</label>
 										</li>
 										<li>
-											<label class="container_check">R$100 — R$150<small>05</small>
-											  <input type="checkbox">
-											  <span class="checkmark"></span>
-											</label>
-										</li>
-										<li>
-											<label class="container_check">R$150 — R$200<small>18</small>
+											<label class="container_check">Consultor
 											  <input type="checkbox">
 											  <span class="checkmark"></span>
 											</label>
