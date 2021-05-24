@@ -225,30 +225,10 @@
 				                <figure>
 				                    <a href="#0" class="wish_bt"><i class="icon_heart"></i></a>
 				                    <img src="img/marcos.jpeg" data-src="img/marcos.jpeg" class="img-fluid lazy" alt="">
-				                    <a href="detail-page.html" class="strip_info">
+				                    <a href="detail-page2.html" class="strip_info">
 				                        <div class="item_title">
 				                            <h3>Marcos, 43 anos</h3>
 				                            <small>Intérprete de libras</small>
-				                        </div>
-				                    </a>
-				                </figure>
-				                <ul>
-				                    <li>
-				                        <div class="score"><span>Score<em>350 avaliações</em></span><strong>8.9</strong></div>
-				                    </li>
-				                </ul>
-				            </div>
-						</div>
-						<!-- /strip grid -->
-						<div class="col-xl-4 col-lg-6 col-md-6 col-sm-6">
-							 <div class="strip">
-				                <figure>
-				                    <a href="#0" class="wish_bt"><i class="icon_heart"></i></a>
-				                    <img src="img/luiza.jpeg" data-src="img/luiza.jpeg" class="img-fluid lazy" alt="">
-				                    <a href="detail-page.html" class="strip_info">
-				                        <div class="item_title">
-				                            <h3>Luiza, 63 anos</h3>
-				                            <small>Consultoria em audiodescrição</small>
 				                        </div>
 				                    </a>
 				                </figure>
