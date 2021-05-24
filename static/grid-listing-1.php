@@ -210,7 +210,7 @@
 							 <div class="strip">
 				                <figure>
 				                    <a href="#0" class="wish_bt"><i class="icon_heart"></i></a>
-				                    <img src="img/marcos.jpeg" data-src="img/marcos.jpeg" class="img-fluid lazy" alt="">
+				                    <img src="img/marcos5.jpeg" data-src="img/marcos5.jpeg" class="img-fluid lazy" alt="">
 				                    <a href="detail-page2.html" class="strip_info">
 				                        <div class="item_title">
 				                            <h3>Marcos, 43 anos</h3>
