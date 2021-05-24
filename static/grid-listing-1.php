@@ -153,14 +153,6 @@
 						</div>
 						<!-- /filter_type -->
 						<div class="filter_type">
-							<h4><a href="#filter_3" data-toggle="collapse" class="closed">Distância</a></h4>
-							<div class="collapse" id="filter_3">
-                                <div class="range_input">Raio do destino <span></span> km</div>
-								<div class="add_bottom_15"><input type="range" min="10" max="100" step="10" value="30" data-orientation="horizontal"></div>
-							</div>
-						</div>
-						<!-- /filter_type -->
-						<div class="filter_type">
 							<h4><a href="#filter_4" data-toggle="collapse" class="closed">Preço</a></h4>
 							<div class="collapse" id="filter_4">
 								<ul>
