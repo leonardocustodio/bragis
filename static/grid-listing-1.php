@@ -259,67 +259,6 @@
 				                </ul>
 				            </div>
 						</div>
-						<!-- /strip grid -->
-						<div class="col-xl-4 col-lg-6 col-md-6 col-sm-6">
-							<div class="strip">
-				                <figure>
-				                    <a href="#0" class="wish_bt"><i class="icon_heart"></i></a>
-				                    <img src="img/carla.jpeg" data-src="img/carla.jpeg" class="img-fluid lazy" alt="">
-				                    <a href="detail-page.html" class="strip_info">
-				                        <div class="item_title">
-				                            <h3>Carla, 38 anos</h3>
-				                            <small>Intérprete de Libras</small>
-				                        </div>
-				                    </a>
-				                </figure>
-				                <ul>
-				                    <li>
-				                        <div class="score"><span>Score<em>350 avaliações</em></span><strong>8.9</strong></div>
-				                    </li>
-				                </ul>
-				            </div>
-						</div>
-						<!-- /strip grid -->
-						<div class="col-xl-4 col-lg-6 col-md-6 col-sm-6">
-							<div class="strip">
-				                <figure>
-				                    <a href="#0" class="wish_bt"><i class="icon_heart"></i></a>
-				                    <img src="img/paulo.png" data-src="img/paulo.png" class="img-fluid lazy" alt="">
-				                    <a href="detail-page.html" class="strip_info">
-				                        <div class="item_title">
-                                            <h3>Paulo, 35 anos</h3>
-                                            <small>Interprete de libras</small>
-				                        </div>
-				                    </a>
-				                </figure>
-				                <ul>
-				                    <li>
-				                        <div class="score"><span>Score<em>350 avaliações</em></span><strong>8.9</strong></div>
-				                    </li>
-				                </ul>
-				            </div>
-						</div>
-						<!-- /strip grid -->
-						<div class="col-xl-4 col-lg-6 col-md-6 col-sm-6">
-							<div class="strip">
-				                <figure>
-				                    <a href="#0" class="wish_bt"><i class="icon_heart"></i></a>
-				                    <img src="img/marisa.png" data-src="img/marisa.png" class="img-fluid lazy" alt="">
-				                    <a href="detail-page.html" class="strip_info">
-				                        <div class="item_title">
-                                            <h3>Marisa, 32 anos</h3>
-                                            <small>Consulta em audiodescrição</small>
-				                        </div>
-				                    </a>
-				                </figure>
-				                <ul>
-				                    <li>
-				                        <div class="score"><span>Score<em>350 avaliações</em></span><strong>8.9</strong></div>
-				                    </li>
-				                </ul>
-				            </div>
-						</div>
-						<!-- /strip grid -->
 					</div>
 					<!-- /row -->
 					<div class="pagination_fg">
