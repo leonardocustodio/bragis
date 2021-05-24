@@ -190,7 +190,7 @@
 							 <div class="strip">
 				                <figure>
 				                    <a href="#0" class="wish_bt"><i class="icon_heart"></i></a>
-				                    <img src="img/raquel.jpg" data-src="img/raquel.jpg" class="img-fluid lazy" alt="">
+				                    <img src="img/raquel2.jpg" data-src="img/raquel2.jpg" class="img-fluid lazy" alt="">
 				                    <a href="detail-page.html" class="strip_info">
 				                        <div class="item_title">
 				                            <h3>Raquel, 54 anos</h3>
