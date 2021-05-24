@@ -193,7 +193,7 @@
 				                    <img src="img/raquel2.jpg" data-src="img/raquel2.jpg" class="img-fluid lazy" alt="">
 				                    <a href="detail-page.html" class="strip_info">
 				                        <div class="item_title">
-				                            <h3>Raquel, 54 anos</h3>
+				                            <h3>Raquel, 32 anos</h3>
 				                            <small>Profissional de Audiodescrição</small>
 				                        </div>
 				                    </a>
